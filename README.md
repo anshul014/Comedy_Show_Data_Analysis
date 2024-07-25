@@ -1,4 +1,5 @@
 # Comedy_Show_Data_Analysis
+This is a Python program that simulates a comedy show. The program includes various segments, such as stand-up routines, skits, and audience interactions, all aimed at providing a humorous experience for the user. 
 
 ## Introduction
 
@@ -146,11 +147,5 @@ This is a Python program that simulates a comedy show. The program includes vari
    pip install -r requirements.txt
    ```
 
-## Contribution
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
